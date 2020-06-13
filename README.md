@@ -1,2 +1,6 @@
-# hello.java
-By Aravind
+
+public class myhello {    
+   public static void main(String args[]) { 
+   	System.out.println(" Hello word");  
+       }
+   }   
